@@ -1,10 +1,13 @@
 _repo: The-Secrets-of-the-Self-Asrar-i-Khudi-A-Philosophical-Poem_57317
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Nicholson, Reynold A.
     gutenberg_agent_id: '49311'
     url: http://www.gutenberg.org/2009/agents/49311
+covers:
+- cover_type: archival
+  image_path: 57317-h/images/cover.jpg
 creator:
   author:
     agent_name: Iqbal, Muhammad, Sir
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '41313'
     url: http://www.gutenberg.org/2009/agents/41313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57317#The-Secrets-of-the-Self-Asrar-i-Khudi-A-Philosophical-Poem
 gutenberg_issued: '2018-06-13'
 gutenberg_type: Text
 identifiers:
